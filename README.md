@@ -2,12 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/Vinx911/sqlitestudio-portable/releases"><img src="https://img.shields.io/github/release/Vinx911/sqlitestudio-portable?style=flat-square" alt="GitHub release"></a>
-  <a href="https://github.com/Vinx911/sqlitestudio-portable/releases"><img src="https://img.shields.io/github/downloads/Vinx911/sqlitestudio-portable/total?style=flat-square" alt="Total downloads"></a>
-  <a href="https://github.com/Vinx911/sqlitestudio-portable/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Vinx911/sqlitestudio-portable?style=flat-square
-" alt="License"></a>
+  <a href="https://github.com/Vinx911/sqlitestudio-portable/releases/latest"><img src="https://img.shields.io/github/downloads/Vinx911/sqlitestudio-portable/total?style=flat-square" alt="Total downloads"></a>
+  <a href="https://github.com/Vinx911/sqlitestudio-portable/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Vinx911/sqlitestudio-portable?style=flat-square" alt="License"></a>
   <a href="https://goreportcard.com/report/github.com/Vinx911/sqlitestudio-portable"><img src="https://goreportcard.com/badge/github.com/Vinx911/sqlitestudio-portable?style=flat-square" alt="Go Report"></a>
 </p>
 
+
+百度云下载：[https://pan.baidu.com/s/1-MQbEGMIvbTfiT9BzEM58w?pwd=6666](https://pan.baidu.com/s/1-MQbEGMIvbTfiT9BzEM58w?pwd=6666) 提取码: 6666
 
 
 
